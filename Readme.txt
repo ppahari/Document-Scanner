@@ -34,4 +34,4 @@ Press 's' to save the image as jpg and proceed for next image window
 Press 'p' to save the image as jpg and pdf then to proceed for next image window
 
 
-P.S. : Read Document Scanner Report to understand in more detail : FinalProject/Document Scanner _ Report.pdf
+P.S. : Read Document Scanner Report to understand in more detail
